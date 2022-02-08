@@ -3,10 +3,15 @@
 1. 텔레그램 창에 "BotFather" 검색
 <img width="593" alt="스크린샷 2022-02-06 오후 10 15 16" src="https://user-images.githubusercontent.com/80435502/152683041-11015126-a639-4d29-98c0-7dce348efdcb.png">
 2. BotFather 대화창에 순서대로 입력
-    -/start
+
+    - /start
+    - 
     - /newbot
+    - 
     - /{}_bot # 봇 이름 설정
+    - 
     - /{}_bot # 봇 사용자 이름 설정
+    - 
     - 토큰 발급
     <img width="567" alt="스크린샷 2022-02-06 오후 10 43 33" src="https://user-images.githubusercontent.com/80435502/152683806-94129e4e-b24e-4dd1-a2f2-79c893bf21e4.png">
     - 발급 받은 토큰으로 chat id 알아내기
