@@ -8,9 +8,9 @@
 
     - /newbot
 
-    - /{}_bot # 봇 이름 설정
+    - {}_bot # 봇 이름 설정
 
-    - /{}_bot # 봇 사용자 이름 설정
+    - {}_bot # 봇 사용자 이름 설정
 
     - 토큰 발급
     <img width="567" alt="스크린샷 2022-02-06 오후 10 43 33" src="https://user-images.githubusercontent.com/80435502/152683806-94129e4e-b24e-4dd1-a2f2-79c893bf21e4.png">
